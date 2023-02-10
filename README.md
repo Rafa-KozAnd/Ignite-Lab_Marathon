@@ -6,7 +6,7 @@
 
 <p align="center">
 <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/Ignite-Lab_Marathon">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Ignite-Lab-Marathon">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Ignite-Lab_Marathon">
 </p>
 
 - Project Name: 'Ignite-Lab Marathon';
